@@ -24,7 +24,7 @@ const Content: React.FC = () => {
         <div className="content-left">
           <h2 className="animated-title">Welcome to ICG GAMING</h2>
           <p>Become an ICG Gaming partner and ready to launch your online casino business!</p>
-          <a href="https://t.me/c/2126586273/89" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/icggaming_gary" target="_blank" rel="noopener noreferrer">
             <button className="cta-button">Get Started</button>
           </a>
         </div>
